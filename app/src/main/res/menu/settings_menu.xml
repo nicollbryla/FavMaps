@@ -10,6 +10,8 @@
                 android:title="@string/log_out" />
             <item android:id="@+id/edit_description"
                 android:title="@string/edit_description" />
+            <item android:id="@+id/change_photo"
+                android:title="@string/change_photo" />
         </menu>
     </item>
 </menu>

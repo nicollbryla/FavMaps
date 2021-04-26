@@ -53,4 +53,6 @@
     <string name="settings">Settings</string>
     <string name="log_out">Log out</string>
     <string name="edit_description">Edit bio</string>
+    <string name="change_photo">Change photo</string>
+    <string name="fab_content_desc">Add new place</string>
 </resources>
