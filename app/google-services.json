@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525235833131",
+    "project_id": "favmaps-b4399",
+    "storage_bucket": "favmaps-b4399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525235833131:android:a75d6cdceaa23177b19d6e",
+        "android_client_info": {
+          "package_name": "com.example.favmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525235833131-qpg536b2ahrc3brd3qf22kp9afds61b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASBVZHl6-MxwW0OysGcihUvmKoog5uZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525235833131-qpg536b2ahrc3brd3qf22kp9afds61b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
